@@ -51,7 +51,7 @@
 
 .wood {
   cursor: crosshair;
-  color: #003300;
+  color: #33cc33;
 }
 
 .wood:hover {
@@ -69,7 +69,7 @@
 
 .mountain {
   cursor: crosshair;
-  color: #333300;
+  color: #996633;
 }
 
 .mountain:hover {
