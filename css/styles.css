@@ -1,0 +1,38 @@
+#pineShow {
+  display: none;
+}
+
+#strawShow {
+  display: none;
+}
+
+#waterShow {
+  display: none;
+}
+
+.pop {
+  cursor: crosshair;
+  color: #ffcc00;
+}
+
+.pop:hover {
+  text-decoration: underline;
+}
+
+.clickable {
+  cursor: crosshair;
+  color: #cc2900;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.waterClick {
+  cursor: crosshair;
+  color: #009900;
+}
+
+.waterClick:hover {
+  text-decoration: underline;
+}
