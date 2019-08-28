@@ -10,6 +10,18 @@
   display: none;
 }
 
+#woodShow {
+  display: none;
+}
+
+#lakeShow {
+  display: none;
+}
+
+#mountainShow {
+  display: none;
+}
+
 .pop {
   cursor: crosshair;
   color: #ffcc00;
@@ -34,5 +46,32 @@
 }
 
 .waterClick:hover {
+  text-decoration: underline;
+}
+
+.wood {
+  cursor: crosshair;
+  color: #003300;
+}
+
+.wood:hover {
+  text-decoration: underline;
+}
+
+.lake {
+  cursor: crosshair;
+  color: #0066cc;
+}
+
+.lake:hover {
+  text-decoration: underline;
+}
+
+.mountain {
+  cursor: crosshair;
+  color: #333300;
+}
+
+.mountain:hover {
   text-decoration: underline;
 }
